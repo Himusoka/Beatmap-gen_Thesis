@@ -1,0 +1,13 @@
+Audio files,beatmaps,avg bm to audio,total frames,avg_frames in audio
+48,285,5.770833333333333,2689520,9436.912280701754
+circle,slider,reverse,spinner,total,avg obj to frames
+41113,35272,4589,279,76664,0.029654584002601844
+avgTempo,median tempo,std dev tempo,highest tempo,lowest tempo
+142.99329122807015,136.00000000000009,29.88329839593431,174.99999999999994,34.49999999999997
+avg diff,median diff,std dev diff
+2.101754385964912,2.5,1.281513801675297
+avg pattern len,median pattern len,std dev pattern,longest pattern
+4.09480824698216,4,2.04446244617384,18
+pattern histogram
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1455,3212,2872,4257,2762,2010,994,626,275,145,52,37,12,2,0,9,1,1

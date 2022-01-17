@@ -1,0 +1,20 @@
+numpy==1.18
+osu_sr_calculator
+tqdm
+librosa
+scipy
+matplotlib
+tempocnn
+tensorflow==2.7
+msaf
+networkx
+click
+pychorus
+cython
+mathplotlib
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torch==1.10.1+cu113 
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torchvision==0.11.2+cu113
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torchaudio===0.10.1+cu113 
